@@ -1,0 +1,41 @@
+{
+  "name": "postcss-purifycss",
+  "version": "1.0.0",
+  "description": "Clean unnecessary CSS with PurifyCSS",
+  "main": "index.js",
+  "author": {
+    "name": "David Sevilla Martín",
+    "email": "dsevilla192@icloud.com",
+    "url": "https://github.com/datitisev"
+  },
+  "keywords": [
+    "postcss",
+    "postcss-plugin",
+    "css",
+    "purify"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datitisev/postcss-purifycss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/datitisev/postcss-purifycss/issues"
+  },
+  "homepage": "https://github.com/datitisev/postcss-purifycss#readme",
+  "scripts": {
+    "lint": "prettier --write index.js"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.4.0"
+  },
+  "dependencies": {
+    "purify-css": "^1.2.5"
+  },
+  "peerDependencies": {
+    "postcss": "6.x"
+  },
+  "devDependencies": {
+    "prettier": "^1.13.7"
+  }
+}
