@@ -24,8 +24,8 @@ postcss([
 
 ### Options
 
-Option  | Required | Description |
- ------------ | :-----------: |
-`content` | ✓ | [The PurifyCSS content argument](The content argument)
-`whitelist` | | A whitelist using Regular Expressions
-`purifyOptions` | | [The optional PurifyCSS options argument](https://github.com/purifycss/purifycss#the-optional-options-argument)
+| Option  | Required | Description |
+| ------------ | :------------: | ----------- |
+| `content` | ✓ | [The PurifyCSS content argument](https://github.com/purifycss/purifycss#the-content-argument)
+| `whitelist` || A whitelist using Regular Expressions
+| `purifyOptions` || [The optional PurifyCSS options argument](https://github.com/purifycss/purifycss#the-optional-options-argument)
