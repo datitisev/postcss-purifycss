@@ -1,6 +1,6 @@
 # postcss-purifycss
 
-[![npm version](https://img.shields.io/npm/v/postcss-purifycss.svg)](https://www.npmjs.com/package/postcss-purifycss) ![node](https://img.shields.io/node/v/@reflar/postcss-purifycss.svg)
+[![npm version](https://img.shields.io/npm/v/postcss-purifycss.svg)](https://www.npmjs.com/package/postcss-purifycss) ![node](https://img.shields.io/node/v/postcss-purifycss.svg)
 
 Clean unnecessary CSS with [PurifyCSS](https://github.com/purifycss/purifycss)
 
