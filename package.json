@@ -33,7 +33,7 @@
     "purify-css": "^1.2.5"
   },
   "peerDependencies": {
-    "postcss": "6.x"
+    "postcss": "6.x - 7.x"
   },
   "devDependencies": {
     "prettier": "^1.13.7"
